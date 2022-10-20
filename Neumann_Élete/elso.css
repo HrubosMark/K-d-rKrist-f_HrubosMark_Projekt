@@ -1,0 +1,42 @@
+body{
+
+    background-color: #4c3228;
+    color: navajowhite;
+    font-size: 18px;
+
+}
+
+h1, h2{
+
+    text-align: center;
+}
+
+img{
+
+    display: block;
+}
+
+.szuletes{
+
+    background-color: #8b6c5c;
+}
+
+.iskola{
+
+    background-color: #8b6c5c;
+}
+
+.sikerei{
+
+    background-color: #8b6c5c;
+}
+
+.Neumann{
+
+    background-color: #8b6c5c;
+}
+
+footer{
+    text-align: center;
+    font-size: 13px;
+}

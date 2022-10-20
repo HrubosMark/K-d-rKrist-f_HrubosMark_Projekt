@@ -1,8 +1,25 @@
 body {
-    background-color: #5e351c;
-    color: white;
+    background-color: #4c3228;
+    color: navajowhite;
+    font-size: 18px;
 }
 
 #elvek {
     width: 350px;
 }
+.num{
+    background-color: #8b6c5c;
+}
+.elv{
+    background-color: #a08679;
+}
+.num2{
+    background-color: #bca89f ;
+}
+footer{
+    font-size: 13px;
+    text-align: center;
+}
+
+
+
